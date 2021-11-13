@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-2ff1a549 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="2ff1a549" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BELI FOLLOWERS SEKARANG</span>
 		</span>
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-69d30f82 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="69d30f82" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BELI FOLLOWERS SEKARANG</span>
 		</span>
@@ -289,7 +289,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-1284fd86 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="1284fd86" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BELI FOLLOWERS SEKARANG</span>
 		</span>
@@ -372,7 +372,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-7ed93028 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="7ed93028" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BELI ATAU TANYA LEWAT WA</span>
 		</span>
@@ -383,7 +383,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-1093081b elementor-button-warning elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_sms" data-id="1093081b" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_sms.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button-popover elementor-button-popover-sms elementor-button elementor-size-md" data-title="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-content="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-animation="pop" data-placement="auto">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button-popover elementor-button-popover-sms elementor-button elementor-size-md" data-title="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-content="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-animation="pop" data-placement="auto">
 				<span class="elementor-button-content-wrapper">
 											<span class="elementor-align-icon-left elementor-button-icon">
 							<i class="fa fa-comments"></i>
@@ -417,7 +417,7 @@ height="0" width="0" style="display:none;visibility:hidden" data-src="https://ww
 				<div class="elementor-element elementor-element-2b795e4 elementor-mobile-align-center elementor-widget elementor-widget-button_lp" data-id="2b795e4" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper elementor-button-sticky-yes">
-			<a href="https://warung.serbaherbal.shop/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://chat.premiumkan.com/Instagram/hub.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BELI FOLLOWERS SEKARANG</span>
 		</span>
